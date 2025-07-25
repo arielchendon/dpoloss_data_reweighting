@@ -1,3 +1,8 @@
+## Updates:
+![44C89C6A-E50D-49AE-87EF-2A0BEF1519F2_1_102_o](https://github.com/user-attachments/assets/c3a02e7d-4af6-4bf9-806c-63ba7891732c)
+
+Use datapoint_weight_tanh.py to apply the functions in picture.
+
 ## Repository Structure
 
 #### Weight-Learning Scripts:
